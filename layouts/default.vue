@@ -1,6 +1,7 @@
 <template>
   <div>
     <Nav/>
+    <Footer/>
     <nuxt/>
   </div>
 
@@ -8,9 +9,13 @@
 
 <script>
 import Nav from './partials/nav';
+import Footer from './partials/footer';
 export default {
   components: {
     Nav
+
+
+
   }
 }
 </script>
@@ -58,7 +63,7 @@ html {
 
 .button--grey {
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 7px;
   border: 1px solid #35495e;
   color: #35495e;
   text-decoration: none;

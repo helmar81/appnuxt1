@@ -7,6 +7,7 @@
        <div class= "flex flex-wrap justify-center">
 <div class="max-w-sm rounded overflow-hidden shadow-lg m-3 p-3">
       <img class="w-full" src="/xpng.png " alt="Vietnam is awesome">
+       <img class="w-full" src="/undraw_working_from_anywhere_ub67 - Kopie.svg " alt="Sunset in the mountains">
       <h1 class="title">
      in progress
       </h1>

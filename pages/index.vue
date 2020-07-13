@@ -64,12 +64,22 @@ export default {}
 }
 */
 .container {
-  margin: 0 auto;
-  min-height: 100vh;
+  margin: 0.5rem;
+  min-height: 20vh;
+  max-height: 70vh;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+
+.li {
+   font-family: arial;
+   font-size: 1rem;
+
+
+
 }
 
 .title {
